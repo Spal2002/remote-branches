@@ -5,3 +5,5 @@ popsickle
 tea
 cake
 grape
+
+Currently there are 7 items
